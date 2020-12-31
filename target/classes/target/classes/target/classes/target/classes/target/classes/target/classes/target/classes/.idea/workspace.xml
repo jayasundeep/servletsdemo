@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40296b63-4174-4568-8126-7ac85a8654a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$USER_HOME$/Downloads/apache-tomcat-8.5.60">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m3jju6oqaNeVTkObFsmKWgQ1XU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$USER_HOME$/Downloads/apache-tomcat-8.5.60" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-tomcat-8.5.60" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/servlets" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/servletdemo" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/8.5.60" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-8.5.60" />
+          <option name="version" value="8.5.60.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcatsmartserver" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/servletdemo" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/8.5.60" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-8.5.60" />
+          <option name="version" value="8.5.60.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40296b63-4174-4568-8126-7ac85a8654a5" name="Default Changelist" comment="" />
+      <created>1608729308732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608729308732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="24" key="#Project_Structure" timestamp="1609147157871">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="223" y="24" key="#Project_Structure/67.24.1853.1056@67.24.1853.1056" timestamp="1609147157871" />
+    <state x="573" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609147209567">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="573" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.24.1853.1056@67.24.1853.1056" timestamp="1609147209567" />
+    <state x="643" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608729811891">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="643" y="323" key="#com.intellij.fileTypes.FileTypeChooser/67.24.1853.1056@67.24.1853.1056" timestamp="1608729811891" />
+    <state x="725" y="205" width="842" height="580" key="EnvironmentVariablesDialog" timestamp="1609147086941">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="725" y="205" width="842" height="580" key="EnvironmentVariablesDialog/67.24.1853.1056@67.24.1853.1056" timestamp="1609147086941" />
+    <state x="579" y="232" key="FileChooserDialogImpl" timestamp="1609147078379">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="579" y="232" key="FileChooserDialogImpl/67.24.1853.1056@67.24.1853.1056" timestamp="1609147078379" />
+    <state width="1797" height="198" key="GridCell.Tab.0.bottom" timestamp="1609148737276">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.0.bottom/67.24.1853.1056@67.24.1853.1056" timestamp="1609148737276" />
+    <state width="1797" height="198" key="GridCell.Tab.0.center" timestamp="1609148737276">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.0.center/67.24.1853.1056@67.24.1853.1056" timestamp="1609148737276" />
+    <state width="1797" height="198" key="GridCell.Tab.0.left" timestamp="1609148737275">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.0.left/67.24.1853.1056@67.24.1853.1056" timestamp="1609148737275" />
+    <state width="1797" height="198" key="GridCell.Tab.0.right" timestamp="1609148737276">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.0.right/67.24.1853.1056@67.24.1853.1056" timestamp="1609148737276" />
+    <state width="1558" height="230" key="GridCell.Tab.1.bottom" timestamp="1608734120498">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.1.bottom/67.24.1853.1056@67.24.1853.1056" timestamp="1608734120498" />
+    <state width="1558" height="230" key="GridCell.Tab.1.center" timestamp="1608734120497">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.1.center/67.24.1853.1056@67.24.1853.1056" timestamp="1608734120497" />
+    <state width="1558" height="230" key="GridCell.Tab.1.left" timestamp="1608734120497">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.1.left/67.24.1853.1056@67.24.1853.1056" timestamp="1608734120497" />
+    <state width="1558" height="230" key="GridCell.Tab.1.right" timestamp="1608734120497">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.1.right/67.24.1853.1056@67.24.1853.1056" timestamp="1608734120497" />
+    <state x="378" y="24" key="SettingsEditor" timestamp="1609060921911">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="378" y="24" key="SettingsEditor/67.24.1853.1056@67.24.1853.1056" timestamp="1609060921911" />
+    <state x="430" y="217" width="1127" height="778" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608813933920">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="430" y="217" width="1127" height="778" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.24.1853.1056@67.24.1853.1056" timestamp="1608813933920" />
+    <state x="393" y="177" key="new project wizard" timestamp="1609142585675">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="393" y="177" key="new project wizard/67.24.1853.1056@67.24.1853.1056" timestamp="1609142585675" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1608814948142">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.24.1853.1056@67.24.1853.1056" timestamp="1608814948142" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.net.ssl.SSLException" package="javax.net.ssl" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
